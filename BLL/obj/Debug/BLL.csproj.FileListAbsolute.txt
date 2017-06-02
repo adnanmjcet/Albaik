@@ -1,0 +1,5 @@
+c:\users\abdullah mohammed\documents\visual studio 2017\Projects\Architecture\BLL\bin\Debug\BLL.dll
+c:\users\abdullah mohammed\documents\visual studio 2017\Projects\Architecture\BLL\bin\Debug\BLL.pdb
+c:\users\abdullah mohammed\documents\visual studio 2017\Projects\Architecture\BLL\obj\Debug\BLL.dll
+c:\users\abdullah mohammed\documents\visual studio 2017\Projects\Architecture\BLL\obj\Debug\BLL.pdb
+c:\users\abdullah mohammed\documents\visual studio 2017\Projects\Architecture\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache

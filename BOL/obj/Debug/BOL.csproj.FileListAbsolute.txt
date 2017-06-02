@@ -1,0 +1,4 @@
+c:\users\abdullah mohammed\documents\visual studio 2017\Projects\Architecture\BOL\bin\Debug\BOL.dll
+c:\users\abdullah mohammed\documents\visual studio 2017\Projects\Architecture\BOL\bin\Debug\BOL.pdb
+c:\users\abdullah mohammed\documents\visual studio 2017\Projects\Architecture\BOL\obj\Debug\BOL.dll
+c:\users\abdullah mohammed\documents\visual studio 2017\Projects\Architecture\BOL\obj\Debug\BOL.pdb
