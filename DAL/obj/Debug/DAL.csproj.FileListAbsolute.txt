@@ -9,3 +9,15 @@ c:\users\abdullah mohammed\documents\visual studio 2017\Projects\Architecture\DA
 c:\users\abdullah mohammed\documents\visual studio 2017\Projects\Architecture\DAL\bin\Debug\BOL.pdb
 c:\users\abdullah mohammed\documents\visual studio 2017\Projects\Architecture\DAL\bin\Debug\EntityFramework.xml
 c:\users\abdullah mohammed\documents\visual studio 2017\Projects\Architecture\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\DAL\bin\Debug\DAL.dll.config
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\DAL\bin\Debug\DAL.dll
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\DAL\bin\Debug\DAL.pdb
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\DAL\bin\Debug\BOL.dll
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\DAL\bin\Debug\BOL.pdb
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\DAL\obj\Debug\DAL.dll
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\DAL\obj\Debug\DAL.pdb

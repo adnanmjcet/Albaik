@@ -2,3 +2,8 @@ c:\users\abdullah mohammed\documents\visual studio 2017\Projects\Architecture\BO
 c:\users\abdullah mohammed\documents\visual studio 2017\Projects\Architecture\BOL\bin\Debug\BOL.pdb
 c:\users\abdullah mohammed\documents\visual studio 2017\Projects\Architecture\BOL\obj\Debug\BOL.dll
 c:\users\abdullah mohammed\documents\visual studio 2017\Projects\Architecture\BOL\obj\Debug\BOL.pdb
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\BOL\bin\Debug\BOL.dll
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\BOL\bin\Debug\BOL.pdb
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\BOL\obj\Debug\BOL.dll
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\BOL\obj\Debug\BOL.pdb

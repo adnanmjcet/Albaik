@@ -3,3 +3,15 @@ c:\users\abdullah mohammed\documents\visual studio 2017\Projects\Architecture\BL
 c:\users\abdullah mohammed\documents\visual studio 2017\Projects\Architecture\BLL\obj\Debug\BLL.dll
 c:\users\abdullah mohammed\documents\visual studio 2017\Projects\Architecture\BLL\obj\Debug\BLL.pdb
 c:\users\abdullah mohammed\documents\visual studio 2017\Projects\Architecture\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\BLL\bin\Debug\BLL.dll
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\BLL\bin\Debug\BLL.pdb
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\BLL\bin\Debug\BOL.dll
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\BLL\bin\Debug\DAL.dll
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\BLL\bin\Debug\BOL.pdb
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\BLL\bin\Debug\DAL.pdb
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\BLL\bin\Debug\DAL.dll.config
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\BLL\obj\Debug\BLL.dll
+C:\Users\Abdullah Mohammed\Desktop\Git\Albaik\BLL\obj\Debug\BLL.pdb
