@@ -40,10 +40,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CommonModel\CanteenModel.cs" />
+    <Compile Include="CommonModel\CollegeModel.cs" />
+    <Compile Include="CommonModel\DepartmentModel.cs" />
+    <Compile Include="CommonModel\LibraryModel.cs" />
+    <Compile Include="CommonModel\StudentModel.cs" />
+    <Compile Include="CommonModel\UserModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="CommonModel\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
